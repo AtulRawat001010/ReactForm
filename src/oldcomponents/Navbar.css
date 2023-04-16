@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.unorderedList {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: baseline;
+    font-size: 1.5rem;
+}
+
+.logoOrName {
+    margin-left: 5rem;
+    cursor: pointer;
+    pointer-events: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.otherLinks {
+    display: flex;
+    gap: 2rem;
+    margin-right: 5rem;
+}

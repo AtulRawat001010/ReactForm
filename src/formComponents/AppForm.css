@@ -1,0 +1,33 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkboxes{
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    color: grey;
+}
+
+fieldset{
+    border: none;
+    margin-left: -0.87rem;
+}
+
+.checkboxDiv1 {
+    margin-bottom: -2rem;
+}
+.checkboxDiv2 {
+    margin-bottom: -2rem;
+}
+
+button {
+    background-color: lightskyblue;
+    border-radius: 0.5rem;
+}
